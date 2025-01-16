@@ -1,0 +1,50 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 20px;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+/* * {
+    border-radius: 5px;
+    border: 0.5px solid red;
+} */
+body {
+    font-family: "Outfit";
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    background-color: hsl(0, 0%, 100%);
+    max-width: 300px;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 4%;
+    height: 70vh;
+}
+
+img {
+    width: 100%;
+    margin: auto;
+    border-radius: 5%;
+    height: 300px;
+}
+
+h1 {
+    /* width: 90%; */
+    padding: 5px;
+    font-size: 25px;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+p {
+    color: hsl(216, 15%, 48%);
+    font-size: 20px;
+    padding: 2px;
+    font-weight: 400;
+}
